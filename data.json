@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Niink",
+        "descricao": "O estilo do Niink mistura trap, drill e rap melódico, com letras focadas em vivências da periferia, ambição, conflitos pessoais, lealdade e ascensão financeira.",
+        "link": "https://open.spotify.com/intl-pt/artist/6MQ7E3HXWR3Djm3miL79mn?si=_ydTrauCTFGMCzxCvR6wqA"
+    },
+    {
+        "nome": "Yunk Vino",
+        "descricao":"Yunk Vino é um dos nomes mais influentes do trap nacional moderno. Nascido em Carapicuíba, na Grande São Paulo, ele ganhou destaque principalmente pela combinação de melodias atmosféricas, autotune muito trabalhado e uma estética inspirada no trap de Atlanta, mas adaptada para a realidade brasileira.",
+        "link":"https://open.spotify.com/intl-pt/artist/460m2YG30duLCuHwFdiLgX?si=b1t9SZhBTleqxZNfUpo9ow0"
+    },
+    {
+        "nome": "Veigh",
+        "descricao":"Veigh é um dos principais nomes da nova geração do trap brasileiro e talvez o artista que melhor conseguiu transformar o trap nacional em fenômeno realmente mainstream sem perder totalmente a conexão com a rua e com a estética do gênero.",
+        "link:": "https://open.spotify.com/intl-pt/artist/4YqwRbMLqGHRHLS1w2ZKse?si=39dcc24010a04745"
+    },
+    {
+        "nome": "Jorge Ben Jor",
+        "descricao":"Jorge Ben Jor é um dos artistas mais revolucionários da música brasileira. Ele não apenas criou sucessos populares, ajudou a redefinir a sonoridade da MPB ao misturar samba, bossa nova, rock, funk, soul e ritmos africanos de um jeito que praticamente ninguém fazia antes dele.",
+        "link":"https://open.spotify.com/intl-pt/artist/5JYtpnUKxAzXfHEYpOeeit?si=hySMMntuQZy3NVapy5eyDQ"
+    },
+    {
+        "nome":"A$ap Rocky",
+        "descricao":"A$AP Rocky é um rapper, produtor e ícone de moda de Harlem, Nova York, que ajudou a redefinir a estética do hip-hop nos anos 2010. Diferente de muitos artistas que se destacam apenas pela música, Rocky construiu influência em três frentes ao mesmo tempo.",
+        "link":"https://open.spotify.com/intl-pt/artist/13ubrt8QOOCPljQ2FL1Kca?si=301U_kYOR9C5gvXR218M4Q"
+    },
+    {
+        "nome":"Mac Miller",
+        "descricao":"Mac Miller foi um rapper, cantor e produtor americano que se transformou de fenômeno adolescente da internet em um dos artistas mais respeitados e emocionalmente complexos do hip-hop moderno.",
+        "link":"https://open.spotify.com/intl-pt/artist/4LLpKhyESsyAXpc4laK94U?si=2JJC3uumSTOLmtxeDLRwRQ"
+    }
+]
