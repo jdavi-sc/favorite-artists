@@ -1,0 +1,157 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #121212;
+}
+
+main {
+    overflow-y: scroll;
+    max-width: 80rem; 
+    margin: 0 auto;
+    margin-top: 2rem;
+    height: calc(100vh - 10rem - 4rem);
+}
+
+header {
+    border-bottom: 1px solid #3c4043;
+}
+
+header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+header ul li {
+    padding: 10px;
+}
+
+a {
+    color: #1dd65f;
+    text-decoration: none;
+    font-family: Elms Sans;
+}
+
+.content-main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  height: 75vh;           
+}
+
+.content-main h1 {
+    color: #1dd65f;
+    font-family: Elms Sans;
+    padding: 10px;
+}
+
+.content-main input {
+    background-color: #121212;
+    width: 50%;
+    border-radius: 5px;
+    padding: 20px;
+    font-family: Elms Sans;
+    color: #FFFFFF;
+}
+
+.content-main button {
+    padding: 20px;
+    border-radius: 10px;
+    width: 20%;
+    font-family: Elms Sans;
+    background-color: #1dd65f;
+    font-weight: bold;
+    color: #000000;
+    font-size: 1rem;
+}
+
+.content-main button:hover {
+    cursor: pointer;
+}
+
+.card {
+    background: none;
+    border-radius: 0; 
+    padding: 0;
+    padding: 0 1rem;
+    margin-bottom: 1.25rem;
+    box-shadow: none;
+    border-bottom: 1px solid #3c4043;
+    padding-bottom: 1.5rem;
+}
+
+.card h2 {
+    color: #1dd65f;
+    font-family: Elms Sans;
+    font-weight: bold;
+    margin-top: 0;
+    font-weight: 600; 
+    font-size: 1.6rem; 
+    border-bottom: none;
+    padding-bottom: 0; 
+    margin-bottom: 0.25rem;
+}
+
+.card p {
+    color: #FFFFFF;
+    font-family: Elms Sans;
+    margin: 0.5rem 0;
+    line-height: 1.6;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+footer {
+    font-family: Elms Sans;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #1dd65f;
+    padding: 15px 20px;
+    border-top: 1px solid #3c4043;
+}
+
+footer ul {
+    list-style: none; 
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: center; 
+    gap: 15px;
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1rem; 
+        max-width: 70%; 
+        word-wrap: break-word; 
+    }
+
+    div input, 
+    div input::placeholder {
+        font-size: 1rem;
+    }
+
+    article h2 { 
+        font-size: 1.3rem; 
+    }
+
+    div { 
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column; 
+        gap: 0.5rem; 
+    }
+
+    .footer { 
+        display: none;
+    }
+
+    button { 
+        margin-top: 1rem;
+    }
+}
